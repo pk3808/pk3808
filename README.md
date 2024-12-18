@@ -1,7 +1,5 @@
 # Hi there! 👋 I’m **Piyush**
 
-![Animated Welcome](https://static01.nyt.com/images/2022/01/06/business/05Techfix-illo/05Techfix-illo-articleLarge.gif?quality=75&auto=webp&disable=upscale)
-)
 
 ---
 
