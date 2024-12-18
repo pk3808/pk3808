@@ -1,6 +1,6 @@
 # Hi there! 👋 I’m **Piyush**
 
-![Animated Welcome](![image](https://github.com/user-attachments/assets/8f92017e-4d3d-49ab-8982-6249d9c8e2b7)
+![Animated Welcome](https://static01.nyt.com/images/2022/01/06/business/05Techfix-illo/05Techfix-illo-articleLarge.gif?quality=75&auto=webp&disable=upscale)
 )
 
 ---
