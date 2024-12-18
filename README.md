@@ -4,16 +4,15 @@
 ---
 
 ### 👨‍💻 About Me:
-
 <table>
   <tr>
     <td>
+      <h3></h3>
       <ul>
         <li>💻 <strong>Software Developer</strong> at <strong>IB Arts</strong></li>
         <li>🚀 Passionate about building creative and scalable applications</li>
         <li>🌱 Constantly learning and exploring new technologies</li>
-        <li>📺 Part Time Youtuber</li>
-        
+        <li>📺 Part time Youtuber</li>
         <li>📧 Reach me at: <strong>piyush.kr.bpmce@gmail.com</strong></li>
       </ul>
     </td>
@@ -22,7 +21,6 @@
     </td>
   </tr>
 </table>
-
 ---
 
 ### 🛠️ My Tech Stack:
