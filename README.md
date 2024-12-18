@@ -7,10 +7,22 @@
 
 ### 👨‍💻 About Me:
 
-- 💻 **Software Developer** at **IB Arts**
-- 🚀 Passionate about building creative and scalable applications
-- 🌱 Constantly learning and exploring new technologies
-- 📧 Reach me at: **piyush.kr.bpmce@gmail.com**
+<table>
+  <tr>
+    <td>
+      <h3>👨‍💻 About Me:</h3>
+      <ul>
+        <li>💻 <strong>Software Developer</strong> at <strong>IB Arts</strong></li>
+        <li>🚀 Passionate about building creative and scalable applications</li>
+        <li>🌱 Constantly learning and exploring new technologies</li>
+        <li>📧 Reach me at: <strong>piyush.kr.bpmce@gmail.com</strong></li>
+      </ul>
+    </td>
+    <td>
+      <img src="https://static01.nyt.com/images/2022/01/06/business/05Techfix-illo/05Techfix-illo-articleLarge.gif?quality=75&auto=webp&disable=upscale" alt="Welcome Animation" width="400"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
