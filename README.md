@@ -8,11 +8,12 @@
 <table>
   <tr>
     <td>
-      <h3>👨‍💻 About Me:</h3>
       <ul>
         <li>💻 <strong>Software Developer</strong> at <strong>IB Arts</strong></li>
         <li>🚀 Passionate about building creative and scalable applications</li>
         <li>🌱 Constantly learning and exploring new technologies</li>
+        <li>📺 Part Time Youtuber</li>
+        
         <li>📧 Reach me at: <strong>piyush.kr.bpmce@gmail.com</strong></li>
       </ul>
     </td>
