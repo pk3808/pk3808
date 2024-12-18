@@ -1,6 +1,7 @@
 # Hi there! 👋 I’m **Piyush**
 
-![Animated Welcome](https://media.giphy.com/media/xUPGcguWZHRC2HyBRS/giphy.gif)
+![Animated Welcome](![image](https://github.com/user-attachments/assets/8f92017e-4d3d-49ab-8982-6249d9c8e2b7)
+)
 
 ---
 
