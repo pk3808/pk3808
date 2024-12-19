@@ -47,17 +47,10 @@
 ---
 
 ### 📊 My GitHub Stats:
-![Piyush's GitHub Stats](https://github-readme-stats.vercel.app/api?username=piyush-kr&show_icons=true&theme=radical)
+![Piyush's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pk3808&show_icons=true&theme=radical)
 
 ---
 
-### 🌐 Connect with Me:
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/your-profile) [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge)](https://twitter.com/your-handle)
-
----
-
-![Coding Animation](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 
 > "The only way to do great work is to love what you do."
 
