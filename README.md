@@ -16,10 +16,10 @@
       </ul>
       <div>
         <a href="https://yourportfolio.com" target="_blank">
-          <button style="background-color: #06B6D4; color: white; border: none; padding: 10px 20px; border-radius: 5px; font-size: 16px;">Visit Portfolio</button>
+          <img src="https://img.shields.io/badge/Portfolio-Visit_Now-blue?style=for-the-badge&logo=firefox" alt="Portfolio Button">
         </a>
         <a href="https://yourresume.com/resume.pdf" download>
-          <button style="background-color: #61DAFB; color: white; border: none; padding: 10px 20px; border-radius: 5px; font-size: 16px;">Download Resume</button>
+          <img src="https://img.shields.io/badge/Resume-Download-orange?style=for-the-badge&logo=adobeacrobatreader" alt="Resume Button">
         </a>
       </div>
     </td>
