@@ -46,6 +46,29 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge) ![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge)
 
 ---
+# Hi there! 👋 I’m **Piyush**
+
+---
+
+### 👨‍💻 Featured YouTube Videos:
+
+<table>
+  <tr>
+    <td>
+      <h4>🎥 Video 1: How to Build XYZ</h4>
+      <iframe width="300" height="168" src="https://www.youtube.com/embed/WRL5hPQV12I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    </td>
+    <td>
+      <h4>🎥 Video 2: Learn React Basics</h4>
+      <iframe width="300" height="168" src="https://www.youtube.com/embed/ssIHpKZBrJk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    </td>
+    <td>
+      <h4>🎥 Video 3: Advanced JavaScript Tips</h4>
+      <iframe width="300" height="168" src="https://www.youtube.com/embed/ceqNDFp38c4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    </td>
+  </tr>
+</table>
+
 
 ### 🌟 What I’m Working On:
 - **React Native Mobile Apps**: Delivering seamless cross-platform experiences
