@@ -16,10 +16,10 @@
       </ul>
       <div>
         <a href="https://yourportfolio.com" target="_blank">
-          <img src="https://img.shields.io/badge/Portfolio-Visit_Now-blue?style=for-the-badge&logo=firefox" alt="Portfolio Button">
+          <img src="https://img.shields.io/badge/Portfolio-Visit_Now-blue?style=flat&logo=firefox" alt="Portfolio Button" width="150">
         </a>
         <a href="https://yourresume.com/resume.pdf" download>
-          <img src="https://img.shields.io/badge/Resume-Download-orange?style=for-the-badge&logo=adobeacrobatreader" alt="Resume Button">
+          <img src="https://img.shields.io/badge/Resume-Download-orange?style=flat&logo=adobeacrobatreader" alt="Resume Button" width="150">
         </a>
       </div>
     </td>
@@ -72,7 +72,7 @@
   </tr>
 </table>
 
-
+---
 
 ### 🌟 What I’m Working On:
 - **React Native Mobile Apps**: Delivering seamless cross-platform experiences
