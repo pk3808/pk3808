@@ -84,7 +84,7 @@
 ---
 
 ### 📊 My GitHub Stats:
-![Piyush's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pk3808&show_icons=true&theme=radical)
+![Piyush's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mandalnayan&show_icons=true&theme=radical)
 
 ---
 
