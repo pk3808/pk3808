@@ -10,7 +10,7 @@
 
 ---
 
-<img src="https://static01.nyt.com/images/2022/01/06/business/05Techfix-illo/05Techfix-illo-articleLarge.gif?quality=75&auto=webp&disable=upscale" alt="Welcome Animation" width="600"/>
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHMxZ3lsZmc0MXQxdWM1a2R5d2RseTc1Zm4wYXRzaHJpbm1mbHMxYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gG6OcTSRWaSis/giphy.gif" alt="Coding Animation" width="900" height='300'/>
 
 ---
 
