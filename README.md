@@ -50,9 +50,7 @@
 
 ---
 
-### 📊 GitHub Stats
 
-![Piyush's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mandalnayan&show_icons=true&theme=radical&hide_border=true&bg_color=00000000)
 
 <br>
 
