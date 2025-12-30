@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi there! I’m **Piyush**
+# Hi there! 😅 I’m **Piyush**
 
 ### 💻 Software Developer at **IB Arts**
 
