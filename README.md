@@ -4,7 +4,7 @@
 
 <img src="https://i.pinimg.com/originals/2b/8d/04/2b8d0426f07613768f0003056a2ba273.gif" alt="Cyberpunk HUD" width="800" style="border-radius: 10px; box-shadow: 0px 0px 20px #00ff99;" />
 
-<br/> <br/>
+<br/><br/>
 
 [![Portfolio](https://img.shields.io/badge/ACCESS_PORTFOLIO-FF00FF?style=for-the-badge&logo=vercel&logoColor=black)](https://yourportfolio.com)
 [![Resume](https://img.shields.io/badge/DOWNLOAD_DATA_LOG-00FFFF?style=for-the-badge&logo=adobeacrobatreader&logoColor=black)](https://yourresume.com/resume.pdf)
