@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,2C3E50,000000&height=150&section=header&text=PIYUSH&fontSize=60&fontAlignY=35&fontStyle=bold&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,2C3677,000000&height=150&section=header&text=PIYUSH&fontSize=60&fontAlignY=35&fontStyle=bold&animation=fadeIn" width="100%" />
 
 ### **Software Engineer & Systems Architect**
 *Specializing in scalable Full-Stack architecture and Mobile ecosystems.*
