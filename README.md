@@ -7,6 +7,7 @@
 
 <p align="center">
   <a href="mailto:piyush.kr.bpmce@gmail.com"><img src="https://img.shields.io/badge/Contact-121212?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="YOUR_RESUME_LINK_HERE"><img src="https://img.shields.io/badge/Resume-121212?style=for-the-badge&logo=googledrive&logoColor=white" /></a>
   <a href="https://piyush-portfoliox.in"><img src="https://img.shields.io/badge/Portfolio-121212?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 </p>
 
