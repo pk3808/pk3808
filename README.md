@@ -14,10 +14,20 @@
 ---
 
 ### 🧱 TECH_STACK
-
 <p align="center">
   <img src="https://skillicons.dev/icons?i=nextjs,react,ts,nodejs,spring,mongodb,docker,aws" />
 </p>
+
+---
+
+### 🛠️ CORE_COMPETENCIES
+
+| **Category** | **Technologies** |
+|:--- |:--- |
+| **Frontend** | `Next.js` • `React` • `React Native` • `TypeScript` • `Tailwind` |
+| **Backend** | `Node.js` • `Spring Boot` • `Java` • `Express` |
+| **Database** | `MongoDB` • `PostgreSQL` • `Firebase` • `Cloudinary` |
+| **DevOps** | `Docker` • `AWS` • `Git` • `Linux` |
 
 ---
 
