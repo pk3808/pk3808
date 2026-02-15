@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,2C3677&height=180&section=header&text=PIYUSH&fontSize=70&fontAlignY=35&animation=fadeIn" width="100%" />
 
 # ⚡ Software Engineer 
-**Scalable Full-Stack Architecture • Mobile Ecosystems • AI Integration**
+**Scalable Full-Stack Architecture • Mobile Ecosystems •  AI Integration**
 
 <p align="center">
   <a href="mailto:piyush.kr.bpmce@gmail.com"><img src="https://img.shields.io/badge/Contact-121212?style=for-the-badge&logo=gmail&logoColor=white" /></a>
