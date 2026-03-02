@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,2C3677&height=180&section=header&text=PIYUSH&fontSize=70&fontAlignY=35&animation=fadeIn" width="100%" />
 
-# ⚡ Software Engineer 
+# ⚡ Software Engineer (sd)
 **Scalable Full-Stack Architecture • Mobile Ecosystems •  AI Integration**
 
 <p align="center">
