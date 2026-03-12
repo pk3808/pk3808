@@ -18,11 +18,7 @@
 
 **An AI-Native Sanctuary for Thoughtful Writing**
 
-* **Polyglot Microservices:** Architected with **Spring Boot** (Core Logic/Auth) and **Node.js** (AI Streaming & Real-time services).
-* **Performance Engineering:** Integrated **Redis** for high-speed caching and optimized **Next.js** for 90+ Lighthouse scores.
-* **AI Orchestration:** Seamless LLM integration to transform raw thoughts into structured, long-form narratives.
-* **Infrastructure:** Fully containerized using **Docker** for consistent deployment and scalable service isolation.
-* **Legal Compliance:** Built-in workflows for **DMCA** and **Section 79 (IT Act India)** compliance.
+> Pensieri is an enterprise-grade blogging ecosystem architected with a **Polyglot Microservices** approach, utilizing **Spring Boot** for robust core logic and **Node.js** for high-concurrency AI streaming. By orchestrating LLMs to transform raw thoughts into structured narratives, the platform bridges the gap between human creativity and AI efficiency. The infrastructure is fully containerized with **Docker** and optimized via **Redis** caching to maintain **90+ Lighthouse performance scores**, all while ensuring global legal standards through built-in **DMCA** and **Section 79 (IT Act India)** compliance workflows.
 
 ---
 
@@ -45,7 +41,15 @@
 ---
 
 ### 🚀 CURRENT_FOCUS
-* **Microservice Scaling:** Optimizing the communication between the Spring Boot core and Node.js AI workers.
-* **Advanced Caching:** Implementing Redis-based strategies to further reduce LCP for global content delivery.
+
+<div align="left" style="display: inline-block; text-align: left; max-width: 850px;">
+
+* 🏗️ **Microservice Scaling:** Optimizing the cross-communication between Spring Boot core logic and Node.js AI workers.
+* ⚡ **Performance Architecture:** Implementing advanced Redis caching strategies to further reduce LCP for global content delivery.
+* 🤖 **Agentic AI:** Exploring autonomous workflows for automated content auditing and dynamic metadata generation.
+
+</div>
+
+---
 
 </div>
