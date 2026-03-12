@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,2C3677&height=180&section=header&text=PIYUSH&fontSize=70&fontAlignY=35&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=02aab0,00cdac&height=180&section=header&text=PIYUSH&fontSize=80&fontAlignY=35&animation=twinkling" width="100%" />
 
 # ⚡ Software Engineer
 **Enterprise Architecture • AI Orchestration • Polyglot Microservices**
