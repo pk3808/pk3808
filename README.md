@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=02aab0,00cdac&height=180&section=header&text=PIYUSH&fontSize=80&fontAlignY=35&animation=twinkling" width="100%" />
 
-# ⚡ Software Engineer
+# 🧑‍💻 Software Engineer
 **Enterprise Architecture • AI Orchestration • Polyglot Microservices**
 
 <p align="center">
@@ -40,13 +40,13 @@
 
 ---
 
-### 🚀 CURRENT_FOCUS
+### CURRENT_FOCUS
 
 <div align="left" style="display: inline-block; text-align: left; max-width: 850px;">
 
-* 🏗️ **Microservice Scaling:** Optimizing the cross-communication between Spring Boot core logic and Node.js AI workers.
-* ⚡ **Performance Architecture:** Implementing advanced Redis caching strategies to further reduce LCP for global content delivery.
-* 🤖 **Agentic AI:** Exploring autonomous workflows for automated content auditing and dynamic metadata generation.
+*  **Microservice Scaling:** Optimizing the cross-communication between Spring Boot core logic and Node.js AI workers.
+*  **Performance Architecture:** Implementing advanced Redis caching strategies to further reduce LCP for global content delivery.
+*  **Agentic AI:** Exploring autonomous workflows for automated content auditing and dynamic metadata generation.
 
 </div>
 
