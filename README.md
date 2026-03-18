@@ -35,7 +35,7 @@
 |:--- |:--- |
 | **Frontend** | `Next.js` • `React` • `TypeScript` • `Tailwind` |
 | **Backend** | `Spring Boot` (Java) • `Node.js` • `Express` • `Microservices` |
-| **Data & Cache** | `MongoDB` • `Redis` • `PostgreSQL` • `Cloudinary` |
+| **Data & Cache** | `MongoDB` • `Redis` • `PostgreSQL` • `Cloudinary`• `Firebase` |
 | **DevOps** | `Docker` • `AWS` • `Linux` • `Performance Tuning` |
 
 ---
