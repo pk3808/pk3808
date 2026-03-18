@@ -40,15 +40,28 @@
 
 ---
 
-### CURRENT_FOCUS
+---
 
-<div align="left" style="display: inline-block; text-align: left; max-width: 850px;">
+### 🚀 ENGINEERING_ROADMAP
 
-*  **Microservice Scaling:** Optimizing the cross-communication between Spring Boot core logic and Node.js AI workers.
-*  **Performance Architecture:** Implementing advanced Redis caching strategies to further reduce LCP for global content delivery.
-*  **Agentic AI:** Exploring autonomous workflows for automated content auditing and dynamic metadata generation.
+<table width="100%">
+  <tr>
+    <td width="33%" align="center">
+      <b>⚡ System Scalability</b><br/>
+      <sub>Refining gRPC & WebSockets for Spring-Node orchestration.</sub>
+    </td>
+    <td width="33%" align="center">
+      <b>🤖 Agentic Workflows</b><br/>
+      <sub>Building autonomous AI layers for metadata & content auditing.</sub>
+    </td>
+    <td width="33%" align="center">
+      <b>🌐 Global Delivery</b><br/>
+      <sub>Edge caching & Redis optimization for sub-200ms LCP.</sub>
+    </td>
+  </tr>
+</table>
 
-</div>
+---
 
 ---
 
