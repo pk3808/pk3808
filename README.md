@@ -27,16 +27,16 @@
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h4>📦 [r-datetime](https://www.npmjs.com/package/r-datetime)</h4>
+      <h4>📦 <a href="https://www.npmjs.com/package/r-datetime">r-datetime</a></h4>
       <sub><b>Headless UI Library | React • TypeScript • Rollup</b></sub>
-      [cite_start]<p>A zero-dependency, high-performance React utility for complex date-time selection[cite: 28, 30]. [cite_start]Optimized for a <b>3KB gzipped footprint</b> using Rollup.js [cite: 31] [cite_start]with full IANA Timezone support and internationalization[cite: 32].</p>
-      <p><i>Peak: 660+ weekly downloads on NPM[cite: 33].</i></p>
+      <p>A zero-dependency, high-performance React utility for complex date-time selection. Optimized for a <b>3KB gzipped footprint</b> using Rollup.js with full IANA Timezone support and internationalization.</p>
+      <p><i>Peak: 660+ weekly downloads on NPM.</i></p>
     </td>
     <td width="50%" valign="top">
-      <h4>🚚 [Storezee](https://play.google.com/store/apps/details?id=com.storezee.user)</h4>
+      <h4>🚚 <a href="https://play.google.com/store/apps/details?id=com.storezee.user">Storezee</a></h4>
       <sub><b>Logistics Platform | React Native • Google Maps • Razorpay</b></sub>
-      <p>A multi-sided marketplace for on-demand luggage storage[cite: 35, 37]. Features real-time proximity tracking via Google Maps SDK [cite: 37] and an event-driven status update system for end-to-end transparency[cite: 38].</p>
-      <p><i>Engineered for cross-platform scalability[cite: 35].</i></p>
+      <p>A multi-sided marketplace for on-demand luggage storage. Features real-time proximity tracking via Google Maps SDK and an event-driven status update system for end-to-end transparency.</p>
+      <p><i>Engineered for cross-platform scalability.</i></p>
     </td>
   </tr>
 </table>
