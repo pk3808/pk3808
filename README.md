@@ -16,7 +16,7 @@
 ### 🖋️ FEATURED_PRODUCT: [Pensieri](https://www.pensieri.ink)
 <img src="https://www.pensieri.ink/favicon.ico" width="45" height="45" alt="Pensieri Logo" />
 
-**An AI-Native Sanctuary for Thoughtful Writing**
+**An AI-Native Sanctuary for  Thoughtful Writing**
 
 > [cite_start]Pensieri is an enterprise-grade blogging ecosystem architected with a **Polyglot Microservices** approach, utilizing **Spring Boot** for core logic [cite: 21] [cite_start]and **Node.js** for high-concurrency AI streaming[cite: 23]. [cite_start]It orchestrates Multi-LLM workflows (OpenAI/Gemini/Llama) to bridge the gap between raw human creativity and AI efficiency[cite: 24]. [cite_start]Fully containerized with **Docker** and optimized via **Redis**, it maintains **90+ Lighthouse scores** and supports 1,000+ monthly readers[cite: 21, 22].
 
