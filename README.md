@@ -13,7 +13,7 @@
 
 ---
 
-### 🖋️ FEATURED_PRODUCT: [Pensieri](https://www.pensieri.ink)
+### 🖋️ FEATURED_PRODUCT: [Pensieri](https://www.pensieri.ink) 
 <img src="https://www.pensieri.ink/favicon.ico" width="45" height="45" alt="Pensieri Logo" />
 
 **An AI-Native Sanctuary for  Thoughtful Writing**
