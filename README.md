@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=45&pause=1000&color=00cdac&center=true&vCenter=true&width=900&height=100&lines=PIYUSH+KUMAR;Full-Stack+Engineer;AI+Orchestration+Expert;Building+Pensieri.ink" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=45&pause=1000&color=00cdac&center=true&vCenter=true&width=900&height=100&lines=PIYUSH+KUMAR;Full-Stack+Engineer;AI+Orchestration+Expert;Building+Pensieri.ink" alt="Typing SVG" /> 
 
 # [PIYUSH KUMAR](https://linkedin.com/in/piyush-kumar-724877217) | [GitHub Repository]()
 **Enterprise Architecture • AI Orchestration • Open-Source Maintenance**
